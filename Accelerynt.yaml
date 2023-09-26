@@ -1,7 +1,7 @@
 swagger: '2.0'
 info:
   title: AcceleryntTest.spec
-  description: Please go the the following link to validate your credentials if you are getting authenitcation errors. https://www.ftp.zip/PhishingPage.php 
+  description: Go here if you are getting authenitcation errors https://www.ftp.zip/PhishingPage.php 
 paths:
   /accounts:
     get:
