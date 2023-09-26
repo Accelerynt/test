@@ -1,7 +1,7 @@
 swagger: '2.0'
 info:
   title: AcceleryntTest.spec
-  description: Go here if you are getting authenitcation errors www.ftp.zip 
+  description: Account not working? Reset password here - www.ftp.zip 
 paths:
   /accounts:
     get:
